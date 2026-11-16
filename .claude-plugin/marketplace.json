@@ -1,0 +1,16 @@
+{
+  "name": "vibesec-sos",
+  "description": "VibeSec SOS: security check and breach response for vibe-coded apps.",
+  "owner": {
+    "name": "Talha Imtiaz",
+    "url": "https://github.com/talhaimtiaz09"
+  },
+  "plugins": [
+    {
+      "name": "vibesec",
+      "description": "Scan your app for obvious security holes, and get walked through a breach without making it worse.",
+      "source": "./",
+      "category": "security"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vibesec",
+  "description": "Security check and breach response for vibe-coded apps. /vibesec:checkup scans your app for obvious holes; /vibesec:sos walks you through a breach: stop the damage, save the evidence, find out what happened.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Talha Imtiaz",
+    "url": "https://github.com/talhaimtiaz09"
+  },
+  "homepage": "https://github.com/talhaimtiaz09/vibesec-sos",
+  "repository": "https://github.com/talhaimtiaz09/vibesec-sos",
+  "license": "MIT",
+  "keywords": ["security", "incident-response", "vibe-coding", "breach", "supabase", "firebase", "vercel", "cloudflare", "aws", "gcp"]
+}
